@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Roofiya Tasneem
+# 👋 Hi, I'm Rufiya Tasneem
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Full-Stack+Developer+in+Progress;Problem+Solver+%7C+500%2B+CodeChef+Problems;Building+Practical+Software+%F0%9F%9A%80" />
