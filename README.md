@@ -4,7 +4,17 @@
 🌱 Exploring Full-Stack Development, Generative AI, and Machine Learning.  
 🐛 I turn ideas into code — and bugs into learning experiences.
 
-📫 [LinkedIn](https://www.linkedin.com/in/rufiya-tasneem-mohammad-a2518a322) · [Email](mailto:mohammadroofiya786@gmail.com) · [GitHub](https://github.com/RufiyaTasneem)
+<p>
+  <a href="https://www.linkedin.com/in/rufiya-tasneem-mohammad-a2518a322">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/RufiyaTasneem">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mohammadroofiya786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -30,25 +40,25 @@
 ## 🛠️ Projects
 
 ### 📝 [Low-Code Dynamic Form Builder](https://github.com/RufiyaTasneem/Low_Code_Dynamic_Form)
+
 A full-stack platform to create, validate, publish, and manage dynamic forms without writing code.  
 Features conditional logic, JWT authentication, file uploads, analytics, and response exports.
 
 **Tech:** React · FastAPI · PostgreSQL · SQLAlchemy
 
 ### 🔄 [SkillSwap — Peer-to-Peer Skill Exchange](https://github.com/RufiyaTasneem/SkillSwap-Peer-to-Peer-Skill-Exchange-Platform)
+
 A platform that connects people to teach and learn skills through peer-to-peer exchange.  
 Focused on building an intuitive interface and making skill sharing more accessible.
 
 **Tech:** React · TypeScript
 
----
+### 🤖 Machine Learning Project
 
-## 📊 GitHub Stats
+An ML project exploring model development and deployment through an interactive user interface.  
+Focused on connecting Python-based machine learning with an accessible user experience.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RufiyaTasneem&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RufiyaTasneem&layout=compact&theme=transparent&hide_border=true" height="165" alt="Most used languages" />
-</p>
+**Tech:** Python · Machine Learning · Gradio
 
 ---
 
