@@ -21,15 +21,14 @@
 ## 🌟 Highlights
 
 - 🏆 **Academic Award of Excellence** — 9.41 first-year CGPA at SRKR Engineering College.
-- 💻 **500+ CodeChef problems solved** and earned the Problem Solver Gold Badge.
-- 🚀 Built a full-stack Low-Code Dynamic Form Builder with authentication, conditional logic, and analytics.
+- 💻 **1000+ CodeChef problems solved** and earned the Problem Solver Diamond Badge.
 - 🤝 Participated in developer programs, competitive programming, and hackathons.
 
 ## 🚀 About Me
 
-🎓 Pursuing B.Tech in Computer Science & Design at **SRKR Engineering College**.  
-⚙️ Interested in building applications across frontend, backend, and database layers.  
-🤖 Exploring AI-powered solutions while strengthening my software engineering and problem-solving skills.
+🎓 Computer Science & Design student at **SRKR Engineering College**, with a **9.15 CGPA** and a passion for building practical software.  
+⚙️ Experienced in developing full-stack applications using **React.js, FastAPI, PostgreSQL, and REST APIs**, from designing interfaces to building backend logic.  
+🤖 Exploring **Generative AI and intelligent applications**, combining problem-solving skills with hands-on project experience to turn ideas into useful solutions.
 
 ## 💻 Tech Stack
 
@@ -53,12 +52,6 @@ Focused on building an intuitive interface and making skill sharing more accessi
 
 **Tech:** React · TypeScript
 
-### 🤖 Machine Learning Project
-
-An ML project exploring model development and deployment through an interactive user interface.  
-Focused on connecting Python-based machine learning with an accessible user experience.
-
-**Tech:** Python · Machine Learning · Gradio
 
 ---
 
